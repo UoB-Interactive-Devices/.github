@@ -1,12 +1,7 @@
-## Hi there 👋
+# Interactive Devices
 
-<!--
+Welcome to the Interactive Devices (COMS30054) Github organisation. All team repos will be hosted here. 
 
-**Here are some ideas to get you started:**
+Link to [Blackboard](https://www.ole.bris.ac.uk/ultra/courses/_257175_1/cl/outline)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Link to [Interactive Devices Team Channel](https://teams.microsoft.com/l/team/19%3AvJXzQ5wpYnxz8exYGTS9jnz0PrJ0pA9pMnKdQVuu_oQ1%40thread.tacv2/conversations?groupId=2bf958d1-48e8-43ac-b0ba-421472971009&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)

@@ -8,8 +8,8 @@ Link to [Interactive Devices Team Channel](https://teams.microsoft.com/l/team/19
 
 ## Teams
 - [Team A](https://github.com/UoB-Interactive-Devices/ID24-TeamA)https://github.com/UoB-Interactive-Devices/ID24-TeamA) (MSc)
-- [Team B]((https://github.com/UoB-Interactive-Devices/ID24-TeamB)https://github.com/UoB-Interactive-Devices/ID24-TeamB)
-- [Team C]((https://github.com/UoB-Interactive-Devices/ID24-TeamC)https://github.com/UoB-Interactive-Devices/ID24-TeamC)
+- [Team B](https://github.com/UoB-Interactive-Devices/ID24-TeamB)https://github.com/UoB-Interactive-Devices/ID24-TeamB)
+- [Team C](https://github.com/UoB-Interactive-Devices/ID24-TeamC)https://github.com/UoB-Interactive-Devices/ID24-TeamC)
 - [Team D](https://github.com/UoB-Interactive-Devices/ID24-TeamD)https://github.com/UoB-Interactive-Devices/ID24-TeamD)
 - [Team E](https://github.com/UoB-Interactive-Devices/ID24-TeamE)https://github.com/UoB-Interactive-Devices/ID24-TeamE)
 - [Team F](https://github.com/UoB-Interactive-Devices/ID24-TeamF)https://github.com/UoB-Interactive-Devices/ID24-TeamF)

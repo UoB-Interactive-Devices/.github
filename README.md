@@ -3,7 +3,7 @@
 Welcome to the Interactive Devices (COMS30054) Github organisation. All team repos will be hosted here. 
 
 
-Link to [[coursematerial.md]]
+Link to [blabla](coursematerial.md)
 
 Link to [Blackboard](https://www.ole.bris.ac.uk/ultra/courses/_257175_1/cl/outline)
 

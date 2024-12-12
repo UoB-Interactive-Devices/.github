@@ -2,7 +2,7 @@
 
 Welcome to the Interactive Devices (COMS30054) Github. 
 You will find here the course materials as well as the team repository where you can upload your project advancements in team.
-[title](coursematerial.md)
+[title](profile:coursematerial.md)
 
 ## Teams repositories from 2024-2025
 (team links to come)

@@ -5,7 +5,7 @@ You will find here the course materials as well as the team repository where you
 
 
 ## Teams from 2024-2025
-(team to come)
+(team links to come)
 
 ## Teams from 2023-2024
 - [Team A](https://github.com/UoB-Interactive-Devices/ID24-TeamA) "Dinosaur" (TAs Jed, Mamoru) (MEng)

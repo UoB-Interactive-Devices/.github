@@ -20,7 +20,7 @@ For 4th-year students, we encourage you to form groups exclusively with other 4t
 
 Each project will have a dedicated GitHub page for uploading materials, along with an Overleaf document linked to the page for paper drafting. The template can be found here: [template overleaf](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty). We provide weekly feedback and guidance on your draft to help with your paper writing. While you can choose to write the paper entirely at the end of the term, this approach has not worked well for students over the past 14 years. Students who write their drafts incrementally each week and actively use feedback from TAs and staff consistently achieve higher grades.
 
-Deadline for report 2025: 1st may 2025
+Deadline for report 2025: 28 April at 5pm 2025 on blackboard (link to video in the report)
 
 ## Teams repositories from 2024-2025
 (team links to come)

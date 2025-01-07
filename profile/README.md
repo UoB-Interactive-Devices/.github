@@ -18,7 +18,7 @@ This is a group project (4-5 people not more). Your assessment is based on two c
 
 For 4th-year students, we encourage you to form groups exclusively with other 4th-year students. As part of the group work, there is an additional assessment requirement: creating an 'Instructable' page (www.instructables.com). This will document the process of building your prototype in a clear, accessible way, allowing others to replicate and learn from your project. 
 
-Each project will have a dedicated GitHub page for uploading materials, along with an Overleaf document linked to the page for paper drafting. We provide weekly feedback and guidance on your draft to help with your paper writing. While you can choose to write the paper entirely at the end of the term, this approach has not worked well for students over the past 14 years. Students who write their drafts incrementally each week and actively use feedback from TAs and staff consistently achieve higher grades.
+Each project will have a dedicated GitHub page for uploading materials, along with an Overleaf document linked to the page for paper drafting. The template can be found here: [template overleaf](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty). We provide weekly feedback and guidance on your draft to help with your paper writing. While you can choose to write the paper entirely at the end of the term, this approach has not worked well for students over the past 14 years. Students who write their drafts incrementally each week and actively use feedback from TAs and staff consistently achieve higher grades.
 
 
 

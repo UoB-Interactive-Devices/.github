@@ -12,6 +12,23 @@ Week 13: slot 1 = introduction lecture.  slot 2= hands-on workshops
 Week 14 to 23: slot 1 = group work with TA support / slot 2 = hands-on workshops 
 Week 24: slot 1 = group work with TA support / slot 2 = demo 
 
+| Week TB2 | Week Date | Tuesday 2pm-5pm                    | Wednesday 10am-1pm                                     | Homework                                                     |
+| -------- | --------- | ---------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
+| 1        | 13-Jan-25 | Intro & Inspiration                | Arduino Intro + Pocket Game                            | Develop your own game                                        |
+| 2        | 20-Jan-25 | Writing your manifesto             | Arduino extended + Group Pocket Game, Soldering Skills | Brainstorm ideas for the companion device in your group  + EVERYONE do a MVB Hackspace induction |
+| 3        | 27-Jan-25 | Brainstorming and abstract writing | Fabrication skills: 3D printer, lasercutter            | Create Overleaf, link to it from group repo and write up your abstract(s) |
+| 4        | 3-Feb-25  |                                    | Specialised Skills A                                   |                                                              |
+| 5        | 10-Feb-25 |                                    | Specialised Skills B                                   |                                                              |
+| 6        | 17-Feb-25 | READING WEEK                       | READING WEEK                                           |                                                              |
+| 7        | 24-Feb-25 |                                    |                                                        |                                                              |
+| 8        | 3-Mar-25  |                                    |                                                        |                                                              |
+| 9        | 10-Mar-25 |                                    |                                                        |                                                              |
+| 10       | 17-Mar-25 |                                    |                                                        |                                                              |
+| 11       | 24-Mar-25 |                                    |                                                        |                                                              |
+| 12       | 31-Mar-25 |                                    |                                                        |                                                              |
+
+
+
 
 ## Assessement
 This is a group project (4-5 people not more). Your assessment is based on two components: (1) a final paper and short video, due on the last day of the term, which accounts for 80% of your grade, and (2) a live demonstration during the last week of the term, accounting for 20%. All members of the team are expected to attend the demo. To pass the unit, your project must include an evaluated prototype using at least one Arduino (or equivalent board), a functioning demo for demo day, a written paper (max 8,000 words), and a video showcasing your working prototype. We will assess based on originality (how innovative the concept is), clarity of both writing and presentation, usability and interaction design (rather than hardware complexity), and the quality of the evaluation. 

@@ -24,11 +24,11 @@ Deadline for report 2025: 28 April at 5pm 2025 on blackboard (link to video in t
 
 ## Teams repositories from 2024-2025
 (team links to come)
-- [Team A](https://github.com/UoB-Interactive-Devices/ID25-TeamA) "Team A"
-- [Team B](https://github.com/UoB-Interactive-Devices/ID25-TeamB) "Team B"
-- [Team C](https://github.com/UoB-Interactive-Devices/ID25-TeamC) "Team C"
-- [Team D](https://github.com/UoB-Interactive-Devices/ID25-TeamD) "Team D"
-- [Team M](https://github.com/UoB-Interactive-Devices/ID25-TeamM) "Team M"
+- [Team A](https://github.com/UoB-Interactive-Devices/ID25-TeamA) "Team A name to be decided"
+- [Team B](https://github.com/UoB-Interactive-Devices/ID25-TeamB) "Team B name to be decided"
+- [Team C](https://github.com/UoB-Interactive-Devices/ID25-TeamC) "Team C name to be decided"
+- [Team D](https://github.com/UoB-Interactive-Devices/ID25-TeamD) "Team D name to be decided"
+- [Team M](https://github.com/UoB-Interactive-Devices/ID25-TeamM) "Team M name to be decided"
 
 ## Teams repositories from 2023-2024
 - [Team A](https://github.com/UoB-Interactive-Devices/ID24-TeamA) "Dinosaur" (TAs Jed, Mamoru) (MEng)

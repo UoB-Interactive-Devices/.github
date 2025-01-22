@@ -14,19 +14,18 @@ Week 24: slot 1 = group work with TA support / slot 2 = demo
 
 | Week TB2 | Week Date | Tuesday 2pm-5pm                    | Wednesday 10am-1pm                                     | Homework                                                     |
 | -------- | --------- | ---------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
-| 1  (13)      | 13th Jan | Intro & Inspiration                | Arduino Intro + Pocket Game                            | Develop your own game                                        |
-| 2  (14)      | 20th Jan | Writing your manifesto             | Arduino extended + Group Pocket Game, Soldering Skills | Brainstorm ideas for the companion device in your group  + EVERYONE do a MVB Hackspace induction |
-| 3  (15)      | 27th Jan | Brainstorming and abstract writing | Fabrication skills: 3D printer, lasercutter            | Create Overleaf, link to it from group repo and write up your abstract(s) |
-| 4  (16)      | 3rd Feb  |                                    | Specialised Skills A                                   |                                                              |
-| 5  (17)      | 10th Feb |                                    | Specialised Skills B                                   |                                                              |
-| 6  (18)      | 17th Feb | READING WEEK                       | READING WEEK                                           |                                                              |
-| 7  (19)      | 24th Feb |                                    |                                                        |                                                              |
-| 8  (20)      | 3rd Mar  |                                    |                                                        |                                                              |
-| 9  (21)      | 10th Mar |                                    |                                                        |                                                              |
-| 10 (22)      | 17th Mar |                                    |                                                        |                                                              |
-| 11 (23)      | 24th Mar |                                    |                                                        |                                                              |
-| 12 (24)      | 31st Mar |                                    |                                                        |                                                              |
-
+| 1        | 13th Jan | Intro & Inspiration                | Arduino Intro + Pocket Game                            | Develop your own game                                        |
+| 2        | 20th Jan | Writing your manifesto             | Arduino extended + Group Pocket Game, Soldering Skills | Brainstorm ideas for the companion device in your group  + EVERYONE do a MVB Hackspace induction |
+| 3        | 27th Jan | Brainstorming and abstract writing | Fabrication skills: 3D printer, lasercutter            | Create Overleaf, link to it from group repo and write up your abstract(s) |
+| 4        | 3rd Feb  |                                    | Specialised Skills A                                   |                                                              |
+| 5        | 10th Feb |                                    | Specialised Skills B                                   |                                                              |
+| 6        | 17th Feb | READING WEEK                       | READING WEEK                                           |                                                              |
+| 7        | 24th Feb |                                    |                                                        |                                                              |
+| 8        | 3rd Mar  |                                    |                                                        |                                                              |
+| 9        | 10th Mar |                                    |                                                        |                                                              |
+| 10       | 17th Mar |                                    |                                                        |                                                              |
+| 11       | 24th Mar |                                    |                                                        |                                                              |
+| 12       | 31st Mar |                                    |                                                        |                                                              |
 
 
 

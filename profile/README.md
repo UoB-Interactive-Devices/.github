@@ -25,7 +25,7 @@ Week 24: slot 1 = group work with TA support / slot 2 = demo
 | 9        | 10th Mar |                                    |                                                        |                                                              |
 | 10       | 17th Mar |                                    |                                                        |                                                              |
 | 11       | 24th Mar |                                    |                                                        |                                                              |
-| 12       | 31st Mar |                                    |                                                        |                                                              |
+| 12       | 31st Mar |                                    |  DEMO DAY, on THURSDAY 10-1pm in the MVB atrium        |                                                              |
 
 
 

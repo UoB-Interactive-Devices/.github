@@ -7,7 +7,7 @@ In this unit, you will: (1) develop an innovative device concept for consumers b
 
 ## Schedule and material
 
-There are two slots of 3h in your calendar, one on tuesdays from 2 to 5 in MVB , the other one wednesdays from 10 to 1 in Queens
+There are two slots of 3h in your calendar, one on tuesdays from 2pm to 5pm , the other one Wednesdays from 10am to 1pm in Queens
 Week 13: slot 1 = introduction lecture.  slot 2= hands-on workshops
 Week 14 to 23: slot 1 = group work with TA support / slot 2 = hands-on workshops 
 Week 24: slot 1 = group work with TA support / slot 2 = demo 

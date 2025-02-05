@@ -39,11 +39,11 @@ Each project will have a dedicated GitHub page for uploading materials, along wi
 Deadline for report 2025: 28 April at 5pm 2025 on blackboard (link to video in the report)
 
 ## Teams Repos - 2025
-- [Team A](https://github.com/UoB-Interactive-Devices/ID25-TeamA) "Team Garfield" (TA: tbc)
-- [Team B](https://github.com/UoB-Interactive-Devices/ID25-TeamB) "Canny Valley" (TA: tbc)
-- [Team C](https://github.com/UoB-Interactive-Devices/ID25-TeamC) "Clickers" (TA: tbc )
-- [Team D](https://github.com/UoB-Interactive-Devices/ID25-TeamD) "Fishies" (TA: tbc)
-- [Team M](https://github.com/UoB-Interactive-Devices/ID25-TeamM) "The Masterminds" (TA: tbc)
+- [Team A](https://github.com/UoB-Interactive-Devices/ID25-TeamA) "Team Garfield" *Signing Robot Arm Bot* (TA: Mamoru) 
+- [Team B](https://github.com/UoB-Interactive-Devices/ID25-TeamB) "Canny Valley"  *Mental Health Desk Helper* (TA: Jack)
+- [Team C](https://github.com/UoB-Interactive-Devices/ID25-TeamC) "Clickers" *Cooking Helper* (TA: Wenda)
+- [Team D](https://github.com/UoB-Interactive-Devices/ID25-TeamD) "Fishies" *Underwater Bots* (TA: Sven)
+- [Team M](https://github.com/UoB-Interactive-Devices/ID25-TeamM) (MSc) "The Masterminds" *Focus Flower* (TA: Oliver) 
 
 ## Teams Repos - 2024
 - [Team A](https://github.com/UoB-Interactive-Devices/ID24-TeamA) "Dinosaur" (TAs Jed, Mamoru) (MEng)

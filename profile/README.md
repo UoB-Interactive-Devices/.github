@@ -79,20 +79,22 @@ The Interactive Devices module was paused during these years due to the global p
 
 ### 2019
 
-For this year, the theme was simply:
+For this year, the theme was:
 
 > Design an interactive device that addresses the theme of **healthcare and wellbeing**. Aim to create a **new and novel** type of interactive device.
 
-- Lotus - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2019/1%20-%20Apollo%20-%20Lotus.pdf)
+Many of the teams submitted their projects to CHI this year, with multiple getting accepted. Unfortunately they weren't able to present their work in Hawaii as due to the pandemic, CHI 2020 was cancelled.
+
+- Lotus: Mediating Mindful Breathing - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2019/1%20-%20Apollo%20-%20Lotus.pdf), [CHI paper](https://dl.acm.org/doi/10.1145/3334480.3382938)
 - PuzzleLink - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2019/10%20-%20TINY%20-%20PuzzleLink.pdf)
 - Smart Hard Hats - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2019/2%20-%20ClassyComputerKits%20-%20Smart%20Hard%20Hat.pdf)
 - sNOoze - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2019/3%20-%20Hawaii%20-%20sNOoze.pdf)
-- Tailor - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2019/4%20-%20MARTA%20-%20Tailor.pdf)
+- TAILOR: A Wearable Sleeve for Monitoring Repetitive Strain Injuries - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2019/4%20-%20MARTA%20-%20Tailor.pdf), [CHI paper](https://dl.acm.org/doi/10.1145/3334480.3383100)
 - Party Thyme - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2019/5%20-%20Party%20Thyme.pdf)
 - Teddy Bear - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2019/6%20-%20Bear%20Skin%20-%20Teddy%20Bear.pdf)
-- PauseBoard - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2019/7%20-%20MACRO%20-%20Tetris%20PauseBoard.pdf)
-- PaNDA Glove - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2019/8%20-%20STEMX%20-%20PaNDA%20Glove.pdf)
-- Disruptabottle - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2019/9%20-%20The%20Wellbeings%20-%20Disruptabottle.pdf)
+- PauseBoard: A Force-Feedback Keyboard for Unintrusively Encouraging Regular Typing Breaks - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2019/7%20-%20MACRO%20-%20Tetris%20PauseBoard.pdf), [CHI paper](https://dl.acm.org/doi/10.1145/3334480.3382969)
+- PaNDa-Glove: A Sensory Substitution Glove for Peripheral Neuropathy - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2019/8%20-%20STEMX%20-%20PaNDA%20Glove.pdf), [CHI paper](https://dl.acm.org/doi/10.1145/3334480.3383045)
+- Disruptabottle: Encouraging Hydration with an Overflowing Bottle - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2019/9%20-%20The%20Wellbeings%20-%20Disruptabottle.pdf), [CHI paper](https://dl.acm.org/doi/10.1145/3334480.3382959)
 
 ### 2018
 

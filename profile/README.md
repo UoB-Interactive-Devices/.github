@@ -73,6 +73,10 @@ For this year rather than having a single theme, we asked the BIG lab to contrib
 - Phone-Jail -[report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2023/Team%20E%20-%20Phone-Jail.pdf)
 - Inflatable - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2023/Team%20F%20-%20Inflatable.pdf)
 
+### 2020-2022
+
+The Interactive Devices module was paused during these years due to the global pandemic (designing and building interactive hardware isn't easily transferred to online teaching!).
+
 ### 2019
 
 For this year, the theme was simply:

@@ -1,5 +1,7 @@
-# Interactive Devices - Unit Materials
+# Interactive Devices
 
-This is the repo for all of the unit materials.
+This repo only contains the main readme for the organisation
 
-The main organisation readme file is under ([profile/readme](https://github.com/UoB-Interactive-Devices/.github/blob/main/profile/README.md))
+## Links
+- Organisation readme : ([profile/readme](https://github.com/UoB-Interactive-Devices/.github/blob/main/profile/README.md))
+- Unit Materials: ([Unit Materials](https://github.com/UoB-Interactive-Devices/Unit-Materials))

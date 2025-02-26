@@ -40,22 +40,12 @@ Each project will have a dedicated GitHub page for uploading materials, along wi
 
 Deadline for report 2025: 28 April at 5pm 2025 on blackboard (link to video in the report)
 
-## Teams Repos - 2025
+## Current Projects
 - [Team A](https://github.com/UoB-Interactive-Devices/ID25-TeamA) "Team Garfield" *Signing Robot Arm Bot* (TA: Mamoru) 
 - [Team B](https://github.com/UoB-Interactive-Devices/ID25-TeamB) "Canny Valley"  *Mental Health Desk Helper* (TA: Jack)
 - [Team C](https://github.com/UoB-Interactive-Devices/ID25-TeamC) "Clickers" *Cooking Helper* (TA: Wenda)
 - [Team D](https://github.com/UoB-Interactive-Devices/ID25-TeamD) "Fishies" *Underwater Bots* (TA: Sven)
 - [Team M](https://github.com/UoB-Interactive-Devices/ID25-TeamM) (MSc) "The Masterminds" *Focus Flower* (TA: Oliver) 
-
-## Teams Repos - 2024
-- [Team A](https://github.com/UoB-Interactive-Devices/ID24-TeamA) "Dinosaur" (TAs Jed, Mamoru) (MEng)
-- [Team B](https://github.com/UoB-Interactive-Devices/ID24-TeamB) "Space Explorer" (TAs Grace, Ellen)
-- [Team C](https://github.com/UoB-Interactive-Devices/ID24-TeamC) "Pointing" (TAs Ellen, Grace)
-- [Team D](https://github.com/UoB-Interactive-Devices/ID24-TeamD) "Shapes of Emotions" (TAs Mamoru, Jed)
-- [Team E](https://github.com/UoB-Interactive-Devices/ID24-TeamE) "Vibracelet" (TAs Sven, Oliver)
-- [Team F](https://github.com/UoB-Interactive-Devices/ID24-TeamF) "Hot & Cold" (TAs Oliver, Sven)
-
-
 
 ## Past Projects
 
@@ -65,12 +55,12 @@ You can find past projects in [Unit-Materials / Past Projects](https://github.co
 
 The theme for this year was: *The Interactive Museum*
 
-- Magnosaur - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2024/Report%20Team%20A%20-%20Magnosaur.pdf)
-- Space - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2024/Report%20Team%20B%20-%20Space.pdf)
-- Pointfo - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2024/Report%20Team%20C%20-%20Pointfo.pdf)
-- Shapes - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2024/Report%20Team%20D%20-%20Shapes.pdf)
-- ViBraclet - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2024/Report%20Team%20E%20-%20ViBracelet.pdf)
-- Hot and Cold - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2024/Report%20Team%20F%20-%20Hot%20and%20Cold.pdf)
+- Magnosaur - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2024/Report%20Team%20A%20-%20Magnosaur.pdf), [repo](https://github.com/UoB-Interactive-Devices/ID24-TeamA) (TAs Jed, Mamoru) (MEng)
+- Space - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2024/Report%20Team%20B%20-%20Space.pdf), [repo](https://github.com/UoB-Interactive-Devices/ID24-TeamB) (TAs Grace, Ellen)
+- Pointfo - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2024/Report%20Team%20C%20-%20Pointfo.pdf), [repo](https://github.com/UoB-Interactive-Devices/ID24-TeamC) (TAs Ellen, Grace)
+- Shapes - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2024/Report%20Team%20D%20-%20Shapes.pdf), [repo](https://github.com/UoB-Interactive-Devices/ID24-TeamD) (TAs Mamoru, Jed)
+- ViBraclet - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2024/Report%20Team%20E%20-%20ViBracelet.pdf), [repo](https://github.com/UoB-Interactive-Devices/ID24-TeamE) (TAs Sven, Oliver)
+- Hot and Cold - [report](https://github.com/UoB-Interactive-Devices/Unit-Materials/blob/main/Past%20Projects/2024/Report%20Team%20F%20-%20Hot%20and%20Cold.pdf), [repo](https://github.com/UoB-Interactive-Devices/ID24-TeamF) (TAs Oliver, Sven)
 
 ### 2023
 

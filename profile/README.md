@@ -51,11 +51,13 @@ Week 24: slot 1 = group work with TA support / slot 2 = demo
 
 This is a group project (4-5 people not more). Your assessment is based on two components: (1) a final paper and short video, due on the last day of the term, which accounts for 80% of your grade, and (2) a live demonstration during the last week of the term, accounting for 20%. All members of the team are expected to attend the demo. To pass the unit, your project must include an evaluated prototype using at least one Arduino (or equivalent board), a functioning demo for demo day, a written paper (max 8,000 words), and a video showcasing your working prototype. We will assess based on originality (how innovative the concept is), clarity of both writing and presentation, usability and interaction design (rather than hardware complexity), and the quality of the evaluation.
 
-For 4th-year students, we encourage you to form groups exclusively with other 4th-year students. As part of the group work, there is an additional assessment requirement: creating an 'Instructable' page (www.instructables.com). This will document the process of building your prototype in a clear, accessible way, allowing others to replicate and learn from your project.
+For 4th-year students, we encourage you to form groups exclusively with other 4th-year students. As part of the group work, there is an additional assessment requirement: creating an 'Instructable' page (www.instructables.com). This will document the process of building your prototype in a clear, accessible way, allowing others to replicate and learn from your project. 
 
 Each project will have a dedicated GitHub page for uploading materials, along with an Overleaf document linked to the page for paper drafting. The template can be found here: [template overleaf](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty). We provide weekly feedback and guidance on your draft to help with your paper writing. While you can choose to write the paper entirely at the end of the term, this approach has not worked well for students over the past 14 years. Students who write their drafts incrementally each week and actively use feedback from TAs and staff consistently achieve higher grades.
 
 Deadline for report 2025: **28 April at 5pm 2025** on blackboard (link to video in the report)
+Report should be no more 8 pages (not counting references and appendix)​ ... to be ready to send to CHI 2025 late in progress if you wish (https://chi2025.acm.org/for-authors/late-breaking-work/)
+
 
 ## Current Projects
 

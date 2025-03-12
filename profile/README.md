@@ -4,9 +4,15 @@
 
 Welcome to the Interactive Devices (COMS30054) GitHub.
 
-In this unit, you will: (1) develop an innovative device concept for consumers by identifying and addressing user needs; (2) learn to utilize common hardware tools (such as Arduino, electronic components, 3D printers, laser cutters, etc.) to build a prototype of an interactive device; (3) conduct user evaluations to assess your prototype's performance; and (4) document your journey in the form of a scientific paper, with the potential for submission to a real conference. Note that this unit is designed for students with little to no prior knowledge of hardware, but it is also suitable for those who are confident in this area as each project will be different. A background in HCI evaluation methods and iterative processes can help. However, it's common for groups to have members with varying skill levels, which can enhance the learning experience and contribute to a successful project.
+In this unit, you will:
 
-_Table of Contents_
+1. Develop an innovative device concept for consumers by identifying and addressing user needs
+2. Learn to utilize common hardware tools (such as Arduino, electronic components, 3D printers, laser cutters, etc.) to build a prototype of an interactive device.
+3. Conduct user evaluations to assess your prototype's performance.
+4. Document your journey in the form of a scientific paper, with the potential for submission to a real conference.
+   _Note that this unit is designed for students with little to no prior knowledge of hardware, but it is also suitable for those who are confident in this area as each project will be different. A background in HCI evaluation methods and iterative processes can help. However, it's common for groups to have members with varying skill levels, which can enhance the learning experience and contribute to a successful project._
+
+**_Table of Contents_**
 
 - [Schedule and material](#schedule-and-material)
 - [Assessment](#assessment)

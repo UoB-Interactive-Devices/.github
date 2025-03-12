@@ -6,6 +6,8 @@ Welcome to the Interactive Devices (COMS30054) GitHub.
 
 In this unit, you will: (1) develop an innovative device concept for consumers by identifying and addressing user needs; (2) learn to utilize common hardware tools (such as Arduino, electronic components, 3D printers, laser cutters, etc.) to build a prototype of an interactive device; (3) conduct user evaluations to assess your prototype's performance; and (4) document your journey in the form of a scientific paper, with the potential for submission to a real conference. Note that this unit is designed for students with little to no prior knowledge of hardware, but it is also suitable for those who are confident in this area as each project will be different. A background in HCI evaluation methods and iterative processes can help. However, it's common for groups to have members with varying skill levels, which can enhance the learning experience and contribute to a successful project.
 
+_Table of Contents_
+
 - [Schedule and material](#schedule-and-material)
 - [Assessment](#assessment)
 - [Current Projects](#current-projects)
@@ -23,9 +25,8 @@ Week 13: slot 1 = introduction lecture. slot 2= hands-on workshops
 Week 14 to 23: slot 1 = group work with TA support / slot 2 = hands-on workshops
 Week 24: slot 1 = group work with TA support / slot 2 = demo
 
-
 | Week TB2 | Week Date | Tuesday 2pm-5pm                    | Wednesday 10am-1pm                                     | Homework                                                                                        |
-|----------|-----------|------------------------------------|--------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| -------- | --------- | ---------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
 | 1        | 13th Jan  | Intro & Inspiration                | Arduino Intro + Pocket Game                            | Develop your own game                                                                           |
 | 2        | 20th Jan  | Writing your manifesto             | Arduino extended + Group Pocket Game, Soldering Skills | Brainstorm ideas for the companion device in your group + EVERYONE do a MVB Hackspace induction |
 | 3        | 27th Jan  | Brainstorming and abstract writing | Fabrication skills: 3D printer, laser cutter           | Create Overleaf, link to it from group repo and write up your abstract(s)                       |

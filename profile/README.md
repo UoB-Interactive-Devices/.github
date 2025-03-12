@@ -19,8 +19,8 @@ Week 24: slot 1 = group work with TA support / slot 2 = demo
 | 1        | 13th Jan | Intro & Inspiration                | Arduino Intro + Pocket Game                            | Develop your own game                                        |
 | 2        | 20th Jan | Writing your manifesto             | Arduino extended + Group Pocket Game, Soldering Skills | Brainstorm ideas for the companion device in your group  + EVERYONE do a MVB Hackspace induction |
 | 3        | 27th Jan | Brainstorming and abstract writing | Fabrication skills: 3D printer, lasercutter            | Create Overleaf, link to it from group repo and write up your abstract(s) |
-| 4        | 3rd Feb  |                                    | Specialised Skills A                                   |                                                              |
-| 5        | 10th Feb |                                    | Specialised Skills B                                   |                                                              |
+| 4        | 3rd Feb  |  Iteration on design               | Specialised Skills A                                   |                                                              |
+| 5        | 10th Feb |  Iteration on paper and study plan | Specialised Skills B                                   |                                                              |
 | 6        | 17th Feb | READING WEEK                       | READING WEEK                                           |                                                              |
 | 7        | 24th Feb |                                    |                                                        |                                                              |
 | 8        | 3rd Mar  |                                    |                                                        |                                                              |

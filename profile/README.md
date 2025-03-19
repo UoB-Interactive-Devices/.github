@@ -32,20 +32,24 @@ Week 13: slot 1 = introduction lecture. slot 2= hands-on workshops
 Week 14 to 23: slot 1 = group work with TA support / slot 2 = hands-on workshops
 Week 24: slot 1 = group work with TA support / slot 2 = demo
 
-| Week TB2 | Week Date | Tuesday 2pm-5pm                    | Wednesday 10am-1pm                                     | Homework                                                                                        |
-| -------- | --------- | ---------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| 1        | 13th Jan  | Intro & Inspiration                | Arduino Intro + Pocket Game                            | Develop your own game                                                                           |
-| 2        | 20th Jan  | Writing your manifesto             | Arduino extended + Group Pocket Game, Soldering Skills | Brainstorm ideas for the companion device in your group + EVERYONE do a MVB Hackspace induction |
-| 3        | 27th Jan  | Brainstorming and abstract writing | Fabrication skills: 3D printer, laser cutter           | Create Overleaf, link to it from group repo and write up your abstract(s)                       |
-| 4        | 3rd Feb   | Iteration on design                | Specialised Skills A                                   |                                                                                                 |
-| 5        | 10th Feb  | Iteration on paper and study plan  | Specialised Skills B                                   |                                                                                                 |
-| 6        | 17th Feb  | READING WEEK                       | READING WEEK                                           |                                                                                                 |
-| 7        | 24th Feb  |                                    |                                                        |                                                                                                 |
-| 8        | 3rd Mar   |                                    |                                                        |                                                                                                 |
-| 9        | 10th Mar  |                                    |                                                        |                                                                                                 |
-| 10       | 17th Mar  |                                    |                                                        |                                                                                                 |
-| 11       | 24th Mar  |                                    |                                                        |                                                                                                 |
-| 12       | 31st Mar  |                                    | DEMO DAY, on THURSDAY 10-1pm in the MVB atrium         |                                                                                                 |
+| Week TB2  | Week Starting | Tuesday 2pm-5pm                    | Wednesday 10am-1pm                                     | Homework                                                     |
+| --------- | ------------- | ---------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
+| 1         | 13th Jan      | Intro & Inspiration                | Arduino Intro + Pocket Game                            | Develop your own game                                        |
+| 2         | 20th Jan      | Writing your manifesto             | Arduino extended + Group Pocket Game, Soldering Skills | Brainstorm ideas for the companion device in your group + EVERYONE do a MVB Hackspace induction |
+| 3         | 27th Jan      | Brainstorming and abstract writing | Fabrication skills: 3D printer, laser cutter           | Create Overleaf, link to it from group repo and write up your abstract(s) |
+| 4         | 3rd Feb       | Iteration on design                | Specialised Skills A                                   |                                                              |
+| 5         | 10th Feb      | Iteration on paper and study plan  | Specialised Skills B                                   |                                                              |
+| 6         | 17th Feb      | READING WEEK                       | READING WEEK                                           |                                                              |
+| 7         | 24th Feb      | research, design and paper writing | hardware development                                   |                                                              |
+| 8         | 3rd Mar       | research, design and paper writing | hardware development                                   |                                                              |
+| 9         | 10th Mar      | research, design and paper writing | hardware development                                   |                                                              |
+| 10        | 17th Mar      | research, design and paper writing | hardware development                                   |                                                              |
+| 11        | 24th Mar      | research, design and paper writing | hardware development                                   |                                                              |
+| 12        | 31st Mar      | demo prep                          | demo prep                                              | **DEMO DAY**, on THURSDAY 10-1pm in the MVB atrium           |
+| Easter    | 7th           | no workshop                        | no workshop                                            |                                                              |
+| Easter    | 14th          | no workshop                        | no workshop                                            |                                                              |
+| Easter    | 21st          | no workshop                        | no workshop                                            |                                                              |
+| Exam Week | 28th          | no workshop                        | no workshop                                            | **REPORT** hand in, Monday 28th 5pm on Blackboard            |
 
 ## Assessment
 
@@ -55,7 +59,7 @@ For 4th-year students, we encourage you to form groups exclusively with other 4t
 
 Each project will have a dedicated GitHub page for uploading materials, along with an Overleaf document linked to the page for paper drafting. The template can be found here: [template overleaf](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty). We provide weekly feedback and guidance on your draft to help with your paper writing. While you can choose to write the paper entirely at the end of the term, this approach has not worked well for students over the past 14 years. Students who write their drafts incrementally each week and actively use feedback from TAs and staff consistently achieve higher grades.
 
-Deadline for report 2025: **28 April at 5pm 2025** on blackboard (link to video in the report)
+Deadline for report 2025: **28 April at 5pm 2025** on blackboard (clearly link to your video from in the report)
 Report should be no more 8 pages (not counting references and appendix)​ ... to be ready to send to CHI 2025 late in progress if you wish (https://chi2025.acm.org/for-authors/late-breaking-work/)
 
 

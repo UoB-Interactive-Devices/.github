@@ -45,11 +45,11 @@ Week 24: slot 1 = group work with TA support / slot 2 = demo
 | 9         | 16th Mar      | research, design and paper writing | hardware development                                   |                                                              |
 | 10        | 13th Apr      | research, design and paper writing | hardware development                                   |                                                              |
 | 11        | 20th Apr      | research, design and paper writing | hardware development                                   |                                                              |
-| 12        | 27th Mar      | demo prep                          | demo prep                                              | **DEMO DAY**, on THURSDAY 10-1pm in the MVB atrium           |
-| Easter    | 7th           | no workshop                        | no workshop                                            |                                                              |
-| Easter    | 14th          | no workshop                        | no workshop                                            |                                                              |
-| Easter    | 21st          | no workshop                        | no workshop                                            |                                                              |
-| Exam Week | 28th          | no workshop                        | no workshop                                            | **REPORT** hand in, Monday 28th 5pm on Blackboard            |
+| 12        | 27th Mar      | demo prep                          | demo prep                                              | **DEMO DAY**, on Tuesday 10-1pm in the MVB atrium           |
+| Easter    | 23th Mar           | no workshop                        | no workshop                                            |                                                              |
+| Easter    | 30th Mar          | no workshop                        | no workshop                                            |                                                              |
+| Easter    | 6th Aprik          | no workshop                        | no workshop                                            |                                                              |
+| Exam Week | 27th          | no workshop                        | no workshop                                            | **REPORT** hand in, Friday 1st May 5pm on Blackboard            |
 
 ## Assessment
 
@@ -59,21 +59,26 @@ For 4th-year students, we encourage you to form groups exclusively with other 4t
 
 Each project will have a dedicated GitHub page for uploading materials, along with an Overleaf document linked to the page for paper drafting. The template can be found here: [template overleaf](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty). We provide weekly feedback and guidance on your draft to help with your paper writing. While you can choose to write the paper entirely at the end of the term, this approach has not worked well for students over the past 14 years. Students who write their drafts incrementally each week and actively use feedback from TAs and staff consistently achieve higher grades.
 
-Deadline for report 2025: **28 April at 5pm 2025** on blackboard (clearly link to your video from in the report)
-Report should be no more 8 pages (not counting references and appendix)​ ... to be ready to send to CHI 2025 late in progress if you wish (https://chi2025.acm.org/for-authors/late-breaking-work/)
+Deadline for report 2025: **1st May at 5pm** on blackboard (clearly link to your video from in the report)
+Report should be no more 8 pages (not counting references and appendix)​
 
 
 ## Current Projects
+
+to add
+
+## Past Projects
+
+You can find past projects in [Unit-Materials / Past Projects](https://github.com/UoB-Interactive-Devices/Unit-Materials/tree/main/Past%20Projects)
+
+### 2025
+The theme for this year was: _Interactive companions_
 
 - [Team A](https://github.com/UoB-Interactive-Devices/ID25-TeamA) "Team Garfield" _Signing Robot Arm Bot_ (TA: Mamoru)
 - [Team B](https://github.com/UoB-Interactive-Devices/ID25-TeamB) "Canny Valley" _Mental Health Desk Helper_ (TA: Jack)
 - [Team C](https://github.com/UoB-Interactive-Devices/ID25-TeamC) "Clickers" _Cooking Helper_ (TA: Wenda)
 - [Team D](https://github.com/UoB-Interactive-Devices/ID25-TeamD) "Fishies" _Underwater Bots_ (TA: Sven)
 - [Team M](https://github.com/UoB-Interactive-Devices/ID25-TeamM) (MSc) "The Masterminds" _Focus Flower_ (TA: Oliver)
-
-## Past Projects
-
-You can find past projects in [Unit-Materials / Past Projects](https://github.com/UoB-Interactive-Devices/Unit-Materials/tree/main/Past%20Projects)
 
 ### 2024
 

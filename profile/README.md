@@ -27,25 +27,25 @@ _Note that this unit is designed for students with little to no prior knowledge 
 
 ## Schedule and material
 
-There are two slots of 3h in your calendar, one on tuesdays from 2pm to 5pm , the other one Wednesdays from 10am to 1pm in Queens
+There are two slots of 3h in your calendar, one on monday from 10am to 1pm, the other one Tuesday from 10am to 1pm in Queens
 Week 13: slot 1 = introduction lecture. slot 2= hands-on workshops
 Week 14 to 23: slot 1 = group work with TA support / slot 2 = hands-on workshops
 Week 24: slot 1 = group work with TA support / slot 2 = demo
 
 | Week TB2  | Week Starting | Tuesday 2pm-5pm                    | Wednesday 10am-1pm                                     | Homework                                                     |
 | --------- | ------------- | ---------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
-| 1         | 13th Jan      | Intro & Inspiration                | Arduino Intro + Pocket Game                            | Develop your own game                                        |
-| 2         | 20th Jan      | Writing your manifesto             | Arduino extended + Group Pocket Game, Soldering Skills | Brainstorm ideas for the companion device in your group + EVERYONE do a MVB Hackspace induction |
-| 3         | 27th Jan      | Brainstorming and abstract writing | Fabrication skills: 3D printer, laser cutter           | Create Overleaf, link to it from group repo and write up your abstract(s) |
-| 4         | 3rd Feb       | Iteration on design                | Specialised Skills A                                   |                                                              |
-| 5         | 10th Feb      | Iteration on paper and study plan  | Specialised Skills B                                   |                                                              |
-| 6         | 17th Feb      | READING WEEK                       | READING WEEK                                           |                                                              |
-| 7         | 24th Feb      | research, design and paper writing | hardware development                                   |                                                              |
-| 8         | 3rd Mar       | research, design and paper writing | hardware development                                   |                                                              |
-| 9         | 10th Mar      | research, design and paper writing | hardware development                                   |                                                              |
-| 10        | 17th Mar      | research, design and paper writing | hardware development                                   |                                                              |
-| 11        | 24th Mar      | research, design and paper writing | hardware development                                   |                                                              |
-| 12        | 31st Mar      | demo prep                          | demo prep                                              | **DEMO DAY**, on THURSDAY 10-1pm in the MVB atrium           |
+| 1         | 19th Jan      | Intro & Inspiration                | Arduino Intro + Pocket Game                            | Develop your own game                                        |
+| 2         | 26th Jan      | Writing your manifesto             | Arduino extended + Group Pocket Game, Soldering Skills | Brainstorm ideas for the companion device in your group + EVERYONE do a MVB Hackspace induction |
+| 3         | 2nd Feb      | Brainstorming and abstract writing | Fabrication skills: 3D printer, laser cutter           | Create Overleaf, link to it from group repo and write up your abstract(s) |
+| 4         | 9th Feb       | Iteration on design                | Specialised Skills A                                   |                                                              |
+| 5         | 16th Feb      | Iteration on paper and study plan  | Specialised Skills B                                   |                                                              |
+| 6         | 23th Feb      | READING WEEK                       | READING WEEK                                           |                                                              |
+| 7         | 2nd Mar      | research, design and paper writing | hardware development                                   |                                                              |
+| 8         | 9th Mar       | research, design and paper writing | hardware development                                   |                                                              |
+| 9         | 16th Mar      | research, design and paper writing | hardware development                                   |                                                              |
+| 10        | 13th Apr      | research, design and paper writing | hardware development                                   |                                                              |
+| 11        | 20th Apr      | research, design and paper writing | hardware development                                   |                                                              |
+| 12        | 27th Mar      | demo prep                          | demo prep                                              | **DEMO DAY**, on THURSDAY 10-1pm in the MVB atrium           |
 | Easter    | 7th           | no workshop                        | no workshop                                            |                                                              |
 | Easter    | 14th          | no workshop                        | no workshop                                            |                                                              |
 | Easter    | 21st          | no workshop                        | no workshop                                            |                                                              |

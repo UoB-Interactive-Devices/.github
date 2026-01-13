@@ -19,6 +19,7 @@ _Note that this unit is designed for students with little to no prior knowledge 
 - [Assessment](#assessment)
 - [Current Projects](#current-projects)
 - [Past Projects](#past-projects)
+  - [2025](#2025)
   - [2024](#2024)
   - [2023](#2023)
   - [2020-2022](#2020-2022)

@@ -33,7 +33,7 @@ Week 13: slot 1 = introduction lecture. slot 2= hands-on workshops
 Week 14 to 23: slot 1 = group work with TA support / slot 2 = hands-on workshops
 Week 24: slot 1 = group work with TA support / slot 2 = demo
 
-| Week TB2  | Week Starting | Tuesday 2pm-5pm                    | Wednesday 10am-1pm                                     | Homework                                                     |
+| Week TB2  | Week Starting | Monday 10am-1pm                    | Tuesday 10am-1pm                                     | Homework                                                     |
 | --------- | ------------- | ---------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
 | 1         | 19th Jan      | Intro & Inspiration                | Arduino Intro + Pocket Game                            | Develop your own game                                        |
 | 2         | 26th Jan      | Writing your manifesto             | Arduino extended + Group Pocket Game, Soldering Skills | Brainstorm ideas for the companion device in your group + EVERYONE do a MVB Hackspace induction |

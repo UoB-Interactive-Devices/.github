@@ -37,8 +37,8 @@ Week 24: slot 1 = group work with TA support / slot 2 = demo
 | --------- | ------------- | ---------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
 | 1         | 19th Jan      | Intro & Inspiration                | Arduino Intro + Pocket Game                            | Develop your own game                                        |
 | 2         | 26th Jan      | Writing your manifesto             | Arduino extended + Group Pocket Game, Soldering Skills | Brainstorm ideas for the companion device in your group + EVERYONE do a MVB Hackspace induction |
-| 3         | 2nd Feb      | Brainstorming and abstract writing | Fabrication skills: 3D printer, laser cutter           | Create Overleaf, link to it from group repo and write up your abstract(s) |
-| 4         | 9th Feb       | Iteration on design                | Specialised Skills A                                   |                                                              |
+| 3         | 2nd Feb      | Brainstorming and abstract writing | Fabrication skills: 3D printer, laser cutter           | Make some observations around your project idea, so some bodystorming |
+| 4         | 9th Feb       | Iteration on design                | Specialised Skills A                                   | Create Overleaf, link to it from group repo and write up your abstract(s)                                                          |
 | 5         | 16th Feb      | Iteration on paper and study plan  | Specialised Skills B                                   |                                                              |
 | 6         | 23th Feb      | READING WEEK                       | READING WEEK                                           |                                                              |
 | 7         | 2nd Mar      | research, design and paper writing | hardware development                                   |                                                              |

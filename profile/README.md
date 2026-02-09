@@ -66,7 +66,13 @@ Report should be no more 8 pages (not counting references and appendix)​
 
 ## Current Projects
 
-to add
+- [Team A](https://github.com/UoB-Interactive-Devices/ID26-TeamA-Spork) "Team Spork" Coffee
+- [Team B](https://github.com/UoB-Interactive-Devices/ID26-TeamB-AAA) "AAA BatterE" Budgets
+- [Team C](https://github.com/UoB-Interactive-Devices/ID26-TeamC-Prototypists) "The Prototypists" Toilet Robot
+- [Team D](https://github.com/UoB-Interactive-Devices/ID26-TeamD-Weekend) "Weekend Wednesday" Hand Mouse
+- [Team E](https://github.com/UoB-Interactive-Devices/ID26-TeamE-OddSocks) "Odd Socks" Dreamcatcher
+- [Team F](https://github.com/UoB-Interactive-Devices/ID26-TeamF-JJADE) "JJADE" Spice Rack
+- [Team M](https://github.com/UoB-Interactive-Devices/ID26-TeamM-DrHouse) "Dr. House" Snail Cleaner
 
 ## Past Projects
 

@@ -65,6 +65,7 @@ Report should be no more 8 pages (not counting references and appendix)​
 
 
 ## Current Projects
+The theme this year is **Home & Habits**
 
 - [Team A](https://github.com/UoB-Interactive-Devices/ID26-TeamA-Spork) "Team Spork" _Coffee_
 - [Team B](https://github.com/UoB-Interactive-Devices/ID26-TeamB-AAA) "AAA BatterE" _Budgets_

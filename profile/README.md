@@ -66,13 +66,13 @@ Report should be no more 8 pages (not counting references and appendix)​
 
 ## Current Projects
 
-- [Team A](https://github.com/UoB-Interactive-Devices/ID26-TeamA-Spork) "Team Spork" Coffee
-- [Team B](https://github.com/UoB-Interactive-Devices/ID26-TeamB-AAA) "AAA BatterE" Budgets
-- [Team C](https://github.com/UoB-Interactive-Devices/ID26-TeamC-Prototypists) "The Prototypists" Toilet Robot
-- [Team D](https://github.com/UoB-Interactive-Devices/ID26-TeamD-Weekend) "Weekend Wednesday" Hand Mouse
-- [Team E](https://github.com/UoB-Interactive-Devices/ID26-TeamE-OddSocks) "Odd Socks" Dreamcatcher
-- [Team F](https://github.com/UoB-Interactive-Devices/ID26-TeamF-JJADE) "JJADE" Spice Rack
-- [Team M](https://github.com/UoB-Interactive-Devices/ID26-TeamM-DrHouse) "Dr. House" Snail Cleaner
+- [Team A](https://github.com/UoB-Interactive-Devices/ID26-TeamA-Spork) "Team Spork" _Coffee_
+- [Team B](https://github.com/UoB-Interactive-Devices/ID26-TeamB-AAA) "AAA BatterE" _Budgets_
+- [Team C](https://github.com/UoB-Interactive-Devices/ID26-TeamC-Prototypists) "The Prototypists" _Toilet Robot_
+- [Team D](https://github.com/UoB-Interactive-Devices/ID26-TeamD-Weekend) "Weekend Wednesday" _Hand Mouse_
+- [Team E](https://github.com/UoB-Interactive-Devices/ID26-TeamE-OddSocks) "Odd Socks" _Dreamcatcher_
+- [Team F](https://github.com/UoB-Interactive-Devices/ID26-TeamF-JJADE) "JJADE" _Spice Rack_
+- [Team M](https://github.com/UoB-Interactive-Devices/ID26-TeamM-DrHouse) "Dr. House" _Snail Cleaner_
 
 ## Past Projects
 

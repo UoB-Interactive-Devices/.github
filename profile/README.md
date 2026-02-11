@@ -68,7 +68,7 @@ Report should be no more 8 pages (not counting references and appendix)​
 The theme this year is **Home & Habits**
 
 - [Team A](https://github.com/UoB-Interactive-Devices/ID26-TeamA-Spork) "Team Spork" _Coffee_
-- [Team B](https://github.com/UoB-Interactive-Devices/ID26-TeamB-AAA) "AAA BatterE" _Budgets_
+- [Team B](https://github.com/UoB-Interactive-Devices/ID26-TeamB-AAA) "AAA BatterE" _Car Wheel_
 - [Team C](https://github.com/UoB-Interactive-Devices/ID26-TeamC-Prototypists) "The Prototypists" _Toilet Robot_
 - [Team D](https://github.com/UoB-Interactive-Devices/ID26-TeamD-Weekend) "Weekend Wednesday" _Hand Mouse_
 - [Team E](https://github.com/UoB-Interactive-Devices/ID26-TeamE-OddSocks) "Odd Socks" _Dreamcatcher_

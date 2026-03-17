@@ -67,13 +67,13 @@ Deadline for report 2025: **Friday 1st May at 1pm** on blackboard (clearly link 
 ## Current Projects
 The theme this year is **Home & Habits**
 
-- [Team A](https://github.com/UoB-Interactive-Devices/ID26-TeamA-Spork) "Team Spork" _Coffee Ritual_ (TAs: ...)
-- [Team B](https://github.com/UoB-Interactive-Devices/ID26-TeamB-AAA) "AAA BatterE" _Car Wheel_ (TAs: ...)
-- [Team C](https://github.com/UoB-Interactive-Devices/ID26-TeamC-Prototypists) "The Prototypists" _Tidying Robot_ (TAs: ...)
-- [Team D](https://github.com/UoB-Interactive-Devices/ID26-TeamD-Weekend) "Weekend Wednesday" _Hand Mouse_ (TAs: ...)
-- [Team E](https://github.com/UoB-Interactive-Devices/ID26-TeamE-OddSocks) "Odd Socks" _Dreamcatcher_ (TAs: ...)
-- [Team F](https://github.com/UoB-Interactive-Devices/ID26-TeamF-JJADE) "JJADE" _Spice Rack_ (TAs: ...)
-- [Team M](https://github.com/UoB-Interactive-Devices/ID26-TeamM-DrHouse) "Dr. House" _Snail Cleaner_ (TAs: ..)
+- [Team A](https://github.com/UoB-Interactive-Devices/ID26-TeamA-Spork) "Team Spork" _Coffee Ritual_ (TAs: Oliver, Jack)
+- [Team B](https://github.com/UoB-Interactive-Devices/ID26-TeamB-AAA) "AAA BatterE" _Car Wheel_ (TAs: Oliver, Yuan)
+- [Team C](https://github.com/UoB-Interactive-Devices/ID26-TeamC-Prototypists) "The Prototypists" _Tidying Robot_ (TAs: Wenda, Yuan)
+- [Team D](https://github.com/UoB-Interactive-Devices/ID26-TeamD-Weekend) "Weekend Wednesday" _Hand Mouse_ (TAs: Yuan, Hancheng)
+- [Team E](https://github.com/UoB-Interactive-Devices/ID26-TeamE-OddSocks) "Odd Socks" _Dreamcatcher_ (TAs: Jack, Wenda)
+- [Team F](https://github.com/UoB-Interactive-Devices/ID26-TeamF-JJADE) "JJADE" _Spice Rack_ (TAs: Jack, Hancheng)
+- [Team M](https://github.com/UoB-Interactive-Devices/ID26-TeamM-DrHouse) "Dr. House" _Snail Cleaner_ (TAs: Hancheng, Wenda)
 
 ## Past Projects
 

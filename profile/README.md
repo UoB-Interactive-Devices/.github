@@ -44,13 +44,14 @@ Week 24: slot 1 = group work with TA support / slot 2 = demo
 | 7         | 2nd Mar      | research, design and paper writing | hardware development                                   |                                                              |
 | 8         | 9th Mar       | research, design and paper writing | hardware development                                   |                                                              |
 | 9         | 16th Mar      | research, design and paper writing | hardware development                                   |                                                              |
-| 10        | 13th Apr      | research, design and paper writing | hardware development                                   |                                                              |
-| 11        | 20th Apr      | research, design and paper writing | hardware development                                   |                                                              |
-| 12        | 27th Mar      | demo prep                          | demo prep                                              | **DEMO DAY**, on Tuesday 10-1pm in the MVB atrium           |
-| Easter    | 23th Mar           | no workshop                        | no workshop                                            |                                                              |
-| Easter    | 30th Mar          | no workshop                        | no workshop                                            |                                                              |
-| Easter    | 6th April          | no workshop                        | no workshop                                            |                                                              |
-| Exam Week | 27th April         | no workshop                        | no workshop                                            | **REPORT** hand in, Friday 1st May 5pm on Blackboard            |
+| Easter   | 23rd Mar      | no workshop                        | no workshop                                            |                                                              |
+| Easter   | 30th Mar      | no workshop                        | no workshop                                            |                                                              |
+| Easter   | 6th April     | no workshop                        | no workshop                                            |                                                              |
+| 10       | 13th Apr      | research, design and paper writing | **practice demo** + hardware development               |                                                              |
+| 11       | 20th Apr      | research, design and paper writing | hardware development                                   |                                                              |
+| 12       | 27th Apr      | demo prep                          | demo prep                                              | **DEMO DAY**, on Tuesday 10-1pm in the MVB atrium<br />**REPORT DUE** Friday 1st May 1pm |
+
+
 
 ## Assessment
 
@@ -60,20 +61,19 @@ For 4th-year students, we encourage you to form groups exclusively with other 4t
 
 Each project will have a dedicated GitHub page for uploading materials, along with an Overleaf document linked to the page for paper drafting. The template can be found here: [template overleaf](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty). We provide weekly feedback and guidance on your draft to help with your paper writing. While you can choose to write the paper entirely at the end of the term, this approach has not worked well for students over the past 14 years. Students who write their drafts incrementally each week and actively use feedback from TAs and staff consistently achieve higher grades.
 
-Deadline for report 2025: **1st May at 5pm** on blackboard (clearly link to your video from in the report)
-Report should be no more 8 pages (not counting references and appendix)​
+Deadline for report 2025: **Friday 1st May at 1pm** on blackboard (clearly link to your video from in the report).
 
 
 ## Current Projects
 The theme this year is **Home & Habits**
 
-- [Team A](https://github.com/UoB-Interactive-Devices/ID26-TeamA-Spork) "Team Spork" _Coffee_
-- [Team B](https://github.com/UoB-Interactive-Devices/ID26-TeamB-AAA) "AAA BatterE" _Car Wheel_
-- [Team C](https://github.com/UoB-Interactive-Devices/ID26-TeamC-Prototypists) "The Prototypists" _Toilet Robot_
-- [Team D](https://github.com/UoB-Interactive-Devices/ID26-TeamD-Weekend) "Weekend Wednesday" _Hand Mouse_
-- [Team E](https://github.com/UoB-Interactive-Devices/ID26-TeamE-OddSocks) "Odd Socks" _Dreamcatcher_
-- [Team F](https://github.com/UoB-Interactive-Devices/ID26-TeamF-JJADE) "JJADE" _Spice Rack_
-- [Team M](https://github.com/UoB-Interactive-Devices/ID26-TeamM-DrHouse) "Dr. House" _Snail Cleaner_
+- [Team A](https://github.com/UoB-Interactive-Devices/ID26-TeamA-Spork) "Team Spork" _Coffee Ritual_ (TAs: ...)
+- [Team B](https://github.com/UoB-Interactive-Devices/ID26-TeamB-AAA) "AAA BatterE" _Car Wheel_ (TAs: ...)
+- [Team C](https://github.com/UoB-Interactive-Devices/ID26-TeamC-Prototypists) "The Prototypists" _Tidying Robot_ (TAs: ...)
+- [Team D](https://github.com/UoB-Interactive-Devices/ID26-TeamD-Weekend) "Weekend Wednesday" _Hand Mouse_ (TAs: ...)
+- [Team E](https://github.com/UoB-Interactive-Devices/ID26-TeamE-OddSocks) "Odd Socks" _Dreamcatcher_ (TAs: ...)
+- [Team F](https://github.com/UoB-Interactive-Devices/ID26-TeamF-JJADE) "JJADE" _Spice Rack_ (TAs: ...)
+- [Team M](https://github.com/UoB-Interactive-Devices/ID26-TeamM-DrHouse) "Dr. House" _Snail Cleaner_ (TAs: ..)
 
 ## Past Projects
 

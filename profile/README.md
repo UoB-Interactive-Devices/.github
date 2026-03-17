@@ -49,8 +49,8 @@ Week 24: slot 1 = group work with TA support / slot 2 = demo
 | 12        | 27th Mar      | demo prep                          | demo prep                                              | **DEMO DAY**, on Tuesday 10-1pm in the MVB atrium           |
 | Easter    | 23th Mar           | no workshop                        | no workshop                                            |                                                              |
 | Easter    | 30th Mar          | no workshop                        | no workshop                                            |                                                              |
-| Easter    | 6th Aprik          | no workshop                        | no workshop                                            |                                                              |
-| Exam Week | 27th          | no workshop                        | no workshop                                            | **REPORT** hand in, Friday 1st May 5pm on Blackboard            |
+| Easter    | 6th April          | no workshop                        | no workshop                                            |                                                              |
+| Exam Week | 27th April         | no workshop                        | no workshop                                            | **REPORT** hand in, Friday 1st May 5pm on Blackboard            |
 
 ## Assessment
 
